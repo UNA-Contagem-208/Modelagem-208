@@ -1,11 +1,13 @@
-# Mapeamento-de-funcionalidades
-CADASTRO DE CLIENTE
-LOGUIN DE FUNCIONARIOS
-CADASTRO DE PRODUTOS
-CONTROLE DE ESTOQUE
-HISTORICO
-TROCAS FUTURAS
-PESQUISA E STATUS
-INSATURAÇAO DE ESTOQUE
-TESTE DASHBOARB
-ACOMPANHAMENTO DE QUILOMETRAGEM
+# Mapeamento de funcionalidades
+### Tiwnio Net
+
+* Cadastro De clientes
+* Login de funcionários
+* Cadastro de produtos
+* Controle de estoque
+* Histórico
+* Trocas futuras
+* Pesquisa de status
+* Insaturação de estoque
+* Dashboarb
+* Acompanhamento de quilometragem
