@@ -4,7 +4,7 @@
 * Cadastro de funcionários
 * Login de funcionários
 * Cadastro de produtos
-* Cadasro de frota
+* Cadastro de frota
 * Controle de estoque
 * Histórico
 * Trocas futuras
