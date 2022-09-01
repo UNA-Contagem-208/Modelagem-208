@@ -9,7 +9,7 @@
 |4             | A frota sera cadastrada no sistema, a fim de se manter um dado preciso do mesmo        | Banco de dados → Construido em MongoDB   |
 |5            | O sistema irá realizar um contro dos produtos utilizados incluindo data, veiculo e funcionário           | Interface → Interface contruida perante os requisistos do cliente        |
 |6          | Irá apresentar um histórico de pesquisa e de alteração                    | Tolerancia à falhas → Continuar funcionando após uma base de dados cair              |
-|7          | O sistema irá alertar quando devera ser realizada as futuras manutenções do veiculo              | Projetado → Sistema Compilado em JAVA           |
+|7          | O sistema irá alertar quando deverá ser realizada as futuras manutenções do veículo              | Projetado → Sistema Compilado em Java           |
 |8             | Será possivel verificar o status de um veículo individual, perante a sua última atualização         | Manutenibilidade → Documentação do código do projeto a fim de facilitar a manutenção do sistema            |
 |9        | Terá um alerta para avisar a necessidade da aquisição de material       | Dashboard → Dashboard para facilitar de visualização dos dados presentes            |
 |10           |Haverá um registro dos dados de quilometragem dos veiculos| Usabilidade → Simplificação dos processos do sistema a fim de facilitar o entendimento pelo usuário                  |
