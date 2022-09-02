@@ -1,7 +1,7 @@
 # Mapeamento de funcionalidades
 ### Tiwnio Net
 
-|Número|REQUSITOS FUNCIONAIS            | REQUISITOS NÃO FUNCIONAIS   |
+|Número|REQUISITOS FUNCIONAIS            | REQUISITOS NÃO FUNCIONAIS   |
 |----------    |--------------------------------|-----------------------------|
 |1           | O sistema permitirá cadastrar os funcionários       | Segurança → Fator 2FA para funcionários                    |
 |2            | Para operar o sistema, o funcionário deverá realizar o login, a fim de se manter um registro de uso          | Disponibilidade → Disponibilidade de acesso remoto por qualquer dispositivo registrado no sistema|
