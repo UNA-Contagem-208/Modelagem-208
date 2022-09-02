@@ -13,3 +13,4 @@
 |8             | Será possivel verificar o status de um veículo individual, perante a sua última atualização         | Manutenibilidade → Documentação do código do projeto a fim de facilitar a manutenção do sistema            |
 |9        | Terá um alerta para avisar a necessidade da aquisição de material       | Dashboard → Dashboard para facilitar de visualização dos dados presentes            |
 |10           |Haverá um registro dos dados de quilometragem dos veiculos| Usabilidade → Simplificação dos processos do sistema a fim de facilitar o entendimento pelo usuário                  |
+<!--https://excelcoaching.com.br/wp-content/uploads/2021/06/Planilha-Controle-de-Entragas-4-1536x958.png-->
