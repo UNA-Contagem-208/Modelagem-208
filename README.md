@@ -17,4 +17,4 @@
 
 ## Página inicial do projeto
 
-<img src="https://raw.githubusercontent.com/UNA-Contagem-208/Mapeamento-de-funcionalidades/main/Layout%20p%C3%A1gina%20principal.png" alt="Layout" title="Menu" />
+<img src="https://raw.githubusercontent.com/UNA-Contagem-208/Mapeamento-de-funcionalidades/main/P%C3%A1gina%20principal.png" alt="Layout" title="Menu" />
