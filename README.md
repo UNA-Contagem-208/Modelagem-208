@@ -14,3 +14,5 @@
 |9        | Terá um alerta para avisar a necessidade da aquisição de material       | Dashboard → Dashboard para facilitar de visualização dos dados presentes            |
 |10           |Haverá um registro dos dados de quilometragem dos veículos| Usabilidade → Simplificação dos processos do sistema a fim de facilitar o entendimento pelo usuário                  |
 <!--https://excelcoaching.com.br/wp-content/uploads/2021/06/Planilha-Controle-de-Entragas-4-1536x958.png-->
+
+<img src="https://raw.githubusercontent.com/UNA-Contagem-208/Mapeamento-de-funcionalidades/main/Novo%20Projeto.png" alt="Layout" title="Menu" />
