@@ -13,13 +13,29 @@
 |8             | Será possível verificar o status de um veículo individual, perante a sua última atualização         | Manutenibilidade → Documentação do código do projeto a fim de facilitar a manutenção do sistema            |
 |9        | Terá um alerta para avisar a necessidade da aquisição de material       | Dashboard → Dashboard para facilitar de visualização dos dados presentes            |
 |10           |Haverá um registro dos dados de quilometragem dos veículos| Usabilidade → Simplificação dos processos do sistema a fim de facilitar o entendimento pelo usuário                  |
-<!--https://excelcoaching.com.br/wp-content/uploads/2021/06/Planilha-Controle-de-Entragas-4-1536x958.png-->
 
-## Página inicial do projeto
+<div align='center'>
+  <h2>Página inicial do projeto</h2>
+    <img src="./Arquivos/Página principal.png" alt="Layout" title="Site" height='2%'/>
 
-<img src="https://raw.githubusercontent.com/UNA-Contagem-208/Mapeamento-de-funcionalidades/main/P%C3%A1gina%20principal.png" alt="Layout" title="Menu" />
+  <h2>Site do projeto</h2>
+    <img src="./Arquivos/Site 1.png" alt="Layout do site"/>
+    <img src="./Arquivos/Site 2.png" alt="Layout do site"/>
+    <img src="./Arquivos/Site 3.png" alt="Layout do site"/>
 
-## Site do projeto
-<img src="https://raw.githubusercontent.com/UNA-Contagem-208/Mapeamento-de-funcionalidades/main/Site%201.png" alt="Layout" title="Site" />
-<img src="https://raw.githubusercontent.com/UNA-Contagem-208/Mapeamento-de-funcionalidades/main/Site%202.png" alt="Layout" title="Site" />
-<img src="https://raw.githubusercontent.com/UNA-Contagem-208/Mapeamento-de-funcionalidades/main/Site%203.png" alt="Layout" title="Site" />
+  <h2>Casos de uso</h2>
+    <img src="./Arquivos/Diagrama de caso de uso.png" alt="Casos de uso"/>
+  
+  <h2>Casos de classes</h2>
+    <img src="./Arquivos/Diagrama de classes.png" alt="Classes"/>
+  
+  <h2>Casos de </h2>
+    <img src="./Arquivos/" alt=""/>
+  
+  <h2>Casos de </h2>
+     <img src="./Arquivos/" alt=""/>
+  
+  <h2>Banco de dados</h2>
+     <img src="./Arquivos/" alt=""/>
+  
+</div>
