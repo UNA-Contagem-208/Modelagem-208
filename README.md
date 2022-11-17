@@ -26,16 +26,16 @@
   <h2>Casos de uso</h2>
     <img src="./Arquivos/Diagrama de caso de uso.png" alt="Casos de uso"/>
   
-  <h2>Casos de classes</h2>
+  <h2>Diagrama de classes</h2>
     <img src="./Arquivos/Diagrama de classes.png" alt="Classes"/>
   
-  <h2>Casos de </h2>
-    <img src="./Arquivos/" alt=""/>
+  <h2>Diagrama de atividade <h4>(Estoque)</h4></h2>
+    <img src="./Arquivos/Diagrama de atividade.jpg" alt="Diagrama de atividade ()"/>
   
-  <h2>Casos de </h2>
-     <img src="./Arquivos/" alt=""/>
+  <h2>Diagrama sequencial <h4>(Login de funcionários)</h4></h2>
+     <img src="./Arquivos/Diagrama sequencial.jpeg" alt="Diagrama sequencial"/>
   
-  <h2>Banco de dados</h2>
+  <h2>Banco de dados <h4>(Lógico)</h4></h2>
      <img src="./Arquivos/Banco de dados (lógico).png" alt="Banco de dados"/>
   
 </div>
