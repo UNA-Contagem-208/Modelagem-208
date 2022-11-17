@@ -36,6 +36,6 @@
      <img src="./Arquivos/" alt=""/>
   
   <h2>Banco de dados</h2>
-     <img src="./Arquivos/" alt=""/>
+     <img src="./Arquivos/Banco de dados (lógico).png" alt="Banco de dados"/>
   
 </div>
