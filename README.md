@@ -30,7 +30,7 @@
     <img src="./Arquivos/Diagrama de classes.png" alt="Classes"/>
   
   <h2>Diagrama de atividade <h4>(Estoque)</h4></h2>
-    <img src="./Arquivos/Diagrama de atividade.jpg" alt="Diagrama de atividade ()"/>
+    <img src="./Arquivos/Diagrama de atividade (dados).jpg" alt="Diagrama de atividade ()"/>
   
   <h2>Diagrama sequencial <h4>(Login de funcionários)</h4></h2>
      <img src="./Arquivos/Diagrama sequencial.jpeg" alt="Diagrama sequencial"/>
